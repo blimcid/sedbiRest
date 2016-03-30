@@ -1,4 +1,4 @@
-package hello;
+package com.sedbi.model;
 
 public class Greeting {
 
